@@ -10,7 +10,7 @@ I’m looking to collaborate on projects regarding data analysis.
 
 I’m looking for help with Python and advance SQL queries.
 
-Ask me anyhting aboout my transition from business student to a data analyst professional.
+Ask me anyhting about my transition from business student to a data analyst professional.
 
 You can reach me at my LinkedIn linkedin.com/in/zeeshan-altaf-578778b0/
 
