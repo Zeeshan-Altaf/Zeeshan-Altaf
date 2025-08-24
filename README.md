@@ -1,18 +1,1 @@
-Hi there 👋
-
-I am Zeeshan Altaf, a business gradute and self taught Data Analyst. I like to convert data into actionable insights below are some highlights about me:
-
-I’m currently working on SQL, Python, Tableau & Power BI.
-
-I’m currently learning Python.
-
-I’m looking to collaborate on projects regarding data analysis.
-
-I’m looking for help with Python and advance SQL queries.
-
-Ask me anyhting about my transition from business student to a data analyst professional.
-
-You can reach me at my LinkedIn linkedin.com/in/zeeshan-altaf-578778b0/
-
-
-Thanks for reading.
+Data Scientist/Analyst with a Master of Data Analytics and expertise in Python, SQL, Power BI, R, and advanced Excel. Experienced in machine learning, natural language processing (NLP), computer vision, predictive analytics, time series analysis, and big data processing using tools such as Pandas, NumPy, Scikit-learn, large language models, Vision Transformers (ViT), Machine learning models, AWS, Hadoop, Hive, Pig Latin, Power BI, Tableau, and Matplotlib. Proven ability to design and implement data pipelines, statistical models, business intelligence dashboards, and data visualization solutions that deliver actionable insights and support data-driven decision-making.
